@@ -1,0 +1,10 @@
+.main-heading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-size: 36px;
+  font-family: 'Roboto';
+  color: rgb(53, 36, 99);
+}
